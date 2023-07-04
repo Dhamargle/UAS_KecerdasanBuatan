@@ -1,6 +1,6 @@
 # UAS
 # Nama  : Dhamar Galih
-# NIM   : 201011402074
+# NIM   : 201011401742
 # Kelas : 06TPLP015
 
 from matplotlib import pyplot as plt
